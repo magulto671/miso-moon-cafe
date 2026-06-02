@@ -4,7 +4,7 @@ Miso Moon Café is a fictional pastel Japanese-inspired café website built with
 
 ## Live Demo
 
-Add your GitHub Pages link here once the site is published.
+https://magulto671.github.io/miso-moon-cafe/
 
 ## Project Overview
 
